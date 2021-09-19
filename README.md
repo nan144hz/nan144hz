@@ -7,7 +7,7 @@
 #### [Youtube](https://www.youtube.com/channel/UCUk9R5IYvs1IDV5mtLDsmCw)
 #### [Twitter](https://twitter.com/nan144hz)
 
-# Languages which I use / learning:
+# Proggraming languages which I use and I'm learning:
 
 * Python
 * C++
