@@ -9,7 +9,6 @@
 
 # Proggraming languages which I use and I'm learning:
 
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+<h1>teste</h1>
 
 # Thank you for reading!
