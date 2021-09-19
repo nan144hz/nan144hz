@@ -1,10 +1,8 @@
 <h1> Hello! I'm <span style="color:#42f590">nan144hz</span> </h1>
 <div style="display: flex; justify-content: space-around; flex-direction: column;">
    <div>
-      <h1 style="color:#42f590;">Bio:</h1>
-   </div>
-      <div>
-      <h1 style="color:#42f590;">a:</h1>
+      <h1>Bio:</h1><br>
+      <p>I'm a Brazilian beginner developer, so everyday I learn some thing. I'm learning and using Python, HTML, CSS, JavaScript and C++.</p>
    </div>
 </div>
 <div>
