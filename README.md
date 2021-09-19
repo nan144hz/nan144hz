@@ -1,5 +1,5 @@
 # Welcome! 
-- Hello! My name in the internet is nan144hz. I'm a beginner dev, so I'm learning a little thing everydays
+- Hello! My name in the internet is nan144hz. I'm a Brazilian beginner dev, so I'm learning a little thing everydays.
 
 # Links
 
