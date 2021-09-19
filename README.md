@@ -9,6 +9,8 @@
 
 # Proggraming languages which I use and I'm learning:
 
-<h1>teste</h1>
+<div>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 height=40/>
+</div>
 
 # Thank you for reading!
