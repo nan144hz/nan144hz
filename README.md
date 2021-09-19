@@ -1,7 +1,11 @@
 <h1> Hello! I'm <span style="color:#42f590">nan144hz</span> </h1>
-<div style="display: flex; justify-content: space-around;">
-   <h1>OI</h1>
-   <h1>OI</h1>
+<div style="display: flex; justify-content: space-around; flex-direction: column;">
+   <div>
+      <h1 style="color:#42f590;">Bio:</h1>
+   </div>
+      <div>
+      <h1 style="color:#42f590;">a:</h1>
+   </div>
 </div>
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 height=40/>
