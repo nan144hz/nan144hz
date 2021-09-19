@@ -1,12 +1,5 @@
-<style>
-#c {
-   display:flex;
-   align-items:center;
-   justify-content: space-around;
-}
-</style>
 <h1> Hello! I'm <span style="color:#42f590">nan144hz</span> </h1>
-<div id="c">
+<div style="display: flex; justify-content: space-around;">
    <h1>OI</h1>
    <h1>OI</h1>
 </div>
