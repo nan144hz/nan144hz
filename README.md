@@ -1,16 +1,18 @@
-### Hi there 👋
+# Welcome! 
+- Hello! My name in the internet is nan144hz. I'm a beginner dev, so I'm learning a little thing everydays
 
-<!--
-**nan144hz/nan144hz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Links
 
-Here are some ideas to get you started:
+#### [Twitch](https://wwww.twitch.tv/nan144hz)
+#### [Youtube](https://www.youtube.com/channel/UCUk9R5IYvs1IDV5mtLDsmCw)
+#### [Twitter](https://twitter.com/nan144hz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Languages which I use / learning:
+
+* Python
+* C++
+* HTML
+* CSS
+* JavaScript
+
+# Thank you for reading!
