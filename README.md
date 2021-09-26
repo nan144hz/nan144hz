@@ -1,5 +1,4 @@
 # Welcome! I'm nan144hz!
-> Hello, my name is nan144hz. I'm a Brazilian beginner developer! I use Python, JavaScript, HTML, CSS and C++. Furthermore, I gonna post here some projects which I made.
 ##
 <div style="display: inline-block;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="40"/>
