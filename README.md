@@ -1,4 +1,4 @@
-# Welcome! I'm nan144hz!
+# Welcome
 ##
 <div style="display: inline-block;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="40"/>
